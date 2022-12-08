@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayrus444
-- 👀 I’m interested in data analysis in python
+- 👀 I’m interested in data analysis using python
 
 
 <!---
